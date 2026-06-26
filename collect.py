@@ -3,7 +3,7 @@ from pathlib import Path
 
 import requests
 
-API_KEY = "4f36df7e-92c1-443f-a60e-09d2fba24dc7"
+API_KEY = ""
 ZONE = "web_unlocker1"
 BASE_URL = "https://api.brightdata.com/request"
 RAW_DATA_PATH = "data/raw/pages.json"
